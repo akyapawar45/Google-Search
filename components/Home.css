@@ -1,0 +1,13 @@
+/* Global styles */
+body {
+    background-color: #ffffff;
+    color: #202124;
+  }
+  
+  body.dark {
+    background-color: #202124;
+    color: #e8eaed;
+  }
+  
+  /* Additional specific styles as required */
+  
